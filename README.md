@@ -1,4 +1,3 @@
-# calculator_js_project1
 
 # JavaScript Calculator
 
